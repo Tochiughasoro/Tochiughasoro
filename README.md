@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [twitter]: https://twitter.com/Tochiughasoro
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/Tochiughasoro
+[instagram]: https://www.instagram.com/Toogirlie
 [linkedin]: https://linkedin.com/in/tochi-ughasoro
 
 <!--
