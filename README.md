@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Tochiughasoro/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Vulnerability Management Program Implementation](https://github.com/Tochiughasoro/Vulnerability-Management-Program/tree/main)**
+- **[Cloud-SOC](https://github.com/Tochiughasoro/Cloud-SOC)**
   
 ## 🚨 Threat Hunting and Security Operations
 
